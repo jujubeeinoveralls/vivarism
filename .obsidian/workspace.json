@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "99f9f7bbb26569e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e096a759e874a53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec7c32e4a7206555",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "phase1_foundation/Spirituality as a Tool of Abuse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spirituality as a Tool of Abuse"
+            }
+          },
+          {
+            "id": "f03ea92a6fdfe3ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "phase1_foundation/Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index"
+            }
+          },
+          {
+            "id": "efd19c557d88e1aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Preface.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Preface"
+            }
+          },
+          {
+            "id": "d306cc561242618c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "phase1_foundation/The Era of Co-option.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Era of Co-option"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ded7a26775cd3c0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5617e594022b1eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc5f5e522e78a1e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "51f25f8df25ff75f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "febbde4afe4d8515",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b58d986c913b2ed9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e03058a39e90297",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2c880d9a8d05aac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "phase1_foundation/The Era of Co-option.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Era of Co-option"
+            }
+          },
+          {
+            "id": "d5c6c0df9c085220",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "phase1_foundation/The Era of Co-option.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Era of Co-option"
+            }
+          },
+          {
+            "id": "fb2b8d45f8f3b5b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "03ad779fc6de5108",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "phase1_foundation/The Era of Co-option.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Era of Co-option"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d306cc561242618c",
+  "lastOpenFiles": [
+    "phase1_foundation/Foundation_Index.md",
+    "Preface.md",
+    "README.md",
+    "phase1_foundation/Spirituality as a Tool of Abuse.md",
+    "Index.md",
+    "phase2_expansion/Expansion_Index.md",
+    "Outline.md",
+    "Cover.png",
+    "phase1_foundation/Index.md",
+    "phase1_foundation/The Void.md",
+    "phase1_foundation/Neo-Colonial Echoes.md",
+    "phase1_foundation/The Context (The Wound).md",
+    "phase2_expansion/Index.md",
+    "Internal Outline.md",
+    "phase1_foundation/The Era of Co-option.md"
+  ]
+}

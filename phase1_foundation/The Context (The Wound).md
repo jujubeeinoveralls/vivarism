@@ -1,14 +1,19 @@
-Purpose: Show why Vivarism was needed.
-- [[The Era of Co-option]]
+# 🌍 The Context (The Wound)
+
+## 💔 Purpose: Show why Vivarism was needed.
+
+- 🔄 [[The Era of Co-option]]
 	- How liberation movements get absorbed, sanitized, sold.
 	- Examples: DEI → HR initiative, Pride → corporate marketing, mindfulness → productivity tool.
-- [[Spirituality as a Tool of Abuse]]
+- 🧠 [[Spirituality as a Tool of Abuse]]
 	- From cult dynamics to guru culture.
 	- Trauma-bypassing, aesthetic spirituality, spiritual capitalism.
-- [[Neo-Colonial Echoes]]
+- 🌐 [[Neo-Colonial Echoes]]
 	- Systems that pretend to be post-oppression but are re-skinned control.
 	- Language of inclusion without structural change.
-- [[The Void]]
+- ⚫ [[The Void]]
 	- What happens when frameworks get hollowed.
 	- The need for something living.
-- Enter: the first murmur of Vivarism.
+- ✨ Enter: the first murmur of Vivarism.
+
+[← Back to Foundation Index](Foundation_Index.md)
