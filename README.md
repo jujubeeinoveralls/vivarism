@@ -10,8 +10,6 @@ Vivarism is a living systems framework designed to survive co-option, metabolize
 
 Inspired by mycelial networks, post-capitalist composting, and spiritual recursion, Vivarism spreads through narrative, interface, ritual, and design—embedding transformation in every layer. It expects to be misunderstood, misused, and stolen. And it grows anyway.
 
-→ [Read the Preface](preface.md)
-
 ## 🧠 The Fundamental Approach
 
 At its core, Vivarism distinguishes itself from other frameworks through five key characteristics:
