@@ -1,4 +1,4 @@
-> _**Vivarism**: From Latin vivere, meaning “to live”
+> _**Vivarism**: From Latin vivere, meaning “to live”_
 
 This is not a book. It is an immune response disguised as a seed. It will not ask to be believed. It will ask to be tended. It may look like philosophy. Or spirituality. Or system design. It is none of these. And all of them. Vivarism is a living pattern—recursive, relational, and adaptive—designed to survive what most things do not: visibility, misuse, and co-option.
 
