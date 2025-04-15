@@ -1,5 +1,3 @@
-# The Practice
-
 ## From Theory to Embodiment
 
 Principles remain abstract until practiced. The true test of any framework is not its conceptual elegance but its lived application—how it transforms from intellectual understanding to embodied wisdom. Vivarism's practice component isn't an afterthought but the primary mechanism through which its principles come alive.

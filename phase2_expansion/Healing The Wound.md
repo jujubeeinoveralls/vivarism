@@ -1,13 +1,3 @@
-Purpose: Make Vivarism safe and sustainable.
-- Internal Family Systems
-- Somatic grounding
-- Sand tray practices
-- Shadow work
-- Witnessing vs. fixing
-- Trauma-informed spirituality
-
-# Healing The Wound
-
 ## Beyond Diagnosis to Treatment
 
 The wound described in the Context section—co-option, spiritual abuse, neo-colonialism, and the void—isn't merely intellectual understanding; it's a lived reality that shapes systems, communities, and individual experiences. Vivarism doesn't simply diagnose this wound but offers pathways toward healing that avoid the typical pitfalls of transformative approaches.

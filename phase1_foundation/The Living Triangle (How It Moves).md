@@ -1,5 +1,3 @@
-# 🔺 The Living Triangle (How It Moves)
-
 ## 🧩 The Framework's Architecture
 
 At the heart of Vivarism lies a three-layered system that functions as both map and engine. This Living Triangle isn't merely a model—it's a dynamic process that generates movement through the interaction of its layers. Unlike static frameworks built on hierarchical levels, the Triangle operates through recursive relationships where each layer continuously informs and transforms the others.

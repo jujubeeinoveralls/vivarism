@@ -1,5 +1,3 @@
-# 🌱 The Seed (What is Vivarism?)
-
 ## 🌿 A Living Framework
 
 Vivarism is not a belief system—it is a living one. Most frameworks are designed as static structures: they establish principles, boundaries, and practices meant to endure unchanged. Vivarism takes a fundamentally different approach. It understands itself as a living organism rather than an architectural blueprint.

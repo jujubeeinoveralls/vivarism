@@ -1,5 +1,3 @@
-# Neo-Colonial Echoes
-
 ## The Illusion of Post-Colonialism
 
 The official era of colonization has ended, empires have nominally retreated, and explicit doctrines of conquest have been disavowed. Yet beneath this veneer of historical closure lies a more insidious reality: colonial patterns have not disappeared but evolved, shifting from territorial occupation to more sophisticated mechanisms of control. These neo-colonial systems operate through:

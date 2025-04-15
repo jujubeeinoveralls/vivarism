@@ -1,5 +1,3 @@
-# 🌍 The Context (The Wound)
-
 ## 💔 Purpose: Show why Vivarism was needed.
 
 - 🔄 [[The Era of Co-option]]

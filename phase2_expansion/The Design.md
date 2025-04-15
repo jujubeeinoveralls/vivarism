@@ -1,5 +1,3 @@
-# The Design
-
 ## From Concept to Structure
 
 Ideas remain ethereal until given form. The ultimate test of Vivarism is not its conceptual elegance but its manifestation in concrete systems, institutions, and technologies. "The Design" represents the architectural expression of Vivarian principles—how they take shape in the material world and survive contact with complex reality.

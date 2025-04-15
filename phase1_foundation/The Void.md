@@ -1,5 +1,3 @@
-# The Void
-
 ## The Hollow Center
 
 When systems of meaning lose their animating force, a peculiar vacuum forms at their center—a void where substance once resided. This phenomenon occurs across domains: in institutions, philosophies, spiritual traditions, and social movements. The pattern emerges with striking consistency:
