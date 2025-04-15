@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "phase1_foundation/Spirituality as a Tool of Abuse.md",
+                "file": "phase1_foundation/2. Spirituality as a Tool of Abuse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spirituality as a Tool of Abuse"
-            }
-          },
-          {
-            "id": "f03ea92a6fdfe3ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "phase1_foundation/Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Index"
+              "title": "2. Spirituality as a Tool of Abuse"
             }
           },
           {
@@ -41,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Preface.md",
+                "file": "Tone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Preface"
+              "title": "Tone"
             }
           },
           {
@@ -55,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "phase1_foundation/The Era of Co-option.md",
+                "file": "Tone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Era of Co-option"
+              "title": "Tone"
+            }
+          },
+          {
+            "id": "91841359c9da4cea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "phase1_foundation/Foundation_Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Foundation_Index"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "phase1_foundation/The Era of Co-option.md",
+                "file": "phase1_foundation/Foundation_Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Era of Co-option"
+              "title": "Backlinks for Foundation_Index"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "phase1_foundation/The Era of Co-option.md",
+                "file": "phase1_foundation/Foundation_Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Era of Co-option"
+              "title": "Outgoing links from Foundation_Index"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "phase1_foundation/The Era of Co-option.md",
+                "file": "phase1_foundation/Foundation_Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Era of Co-option"
+              "title": "Outline of Foundation_Index"
             }
           }
         ]
@@ -211,22 +211,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d306cc561242618c",
+  "active": "91841359c9da4cea",
   "lastOpenFiles": [
+    "phase1_foundation/6. The Living Triangle (How It Moves).md",
+    "phase1_foundation/0. The Wound.md",
     "phase1_foundation/Foundation_Index.md",
-    "Preface.md",
-    "README.md",
-    "phase1_foundation/Spirituality as a Tool of Abuse.md",
-    "Index.md",
+    "phase1_foundation/5. The Seed (What is Vivarism?).md",
+    "phase1_foundation/4. The Void.md",
+    "phase1_foundation/3. Neo-Colonial Echoes.md",
+    "phase1_foundation/2. Spirituality as a Tool of Abuse.md",
+    "phase1_foundation/1. The Era of Co-option.md",
+    "1. The Era of Co-option.md",
+    "prompt.md",
+    "Tone.md",
     "phase2_expansion/Expansion_Index.md",
+    "phase2_expansion/The Body (Allegories and Metaphors).md",
+    "phase2_expansion/The Practice.md",
+    "phase2_expansion/The Design.md",
+    "phase2_expansion/Healing The Wound.md",
+    "README.md",
+    "images",
+    "images/cover.png",
+    "Index.md",
     "Outline.md",
-    "Cover.png",
     "phase1_foundation/Index.md",
-    "phase1_foundation/The Void.md",
-    "phase1_foundation/Neo-Colonial Echoes.md",
-    "phase1_foundation/The Context (The Wound).md",
     "phase2_expansion/Index.md",
-    "Internal Outline.md",
-    "phase1_foundation/The Era of Co-option.md"
+    "Internal Outline.md"
   ]
 }
